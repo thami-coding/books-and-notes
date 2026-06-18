@@ -1,0 +1,3 @@
+-- The order by clause tells the server how to sort the data returned by the query. Without
+-- the order by clause, there is no guarantee that the data in the table will be retrieved in
+-- any particular order.
