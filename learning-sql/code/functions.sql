@@ -5,3 +5,4 @@ version()
 user()
 database();
 time(column)
+date(column)
